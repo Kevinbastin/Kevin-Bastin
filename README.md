@@ -1,4 +1,6 @@
-Hi,i'm @Kevinbastin
-Iam interested in coding
-Iam looking to collaborate on software development
-football is my favorite sport
+- 👋 Hi, I’m @Kevinbastin
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning btech cse
+- 💞️ I’m looking to collaborate on software companies
+- 📫 How to reach me through email-kevinkattakayam@karunya.edu.in
+-interested in playing football
