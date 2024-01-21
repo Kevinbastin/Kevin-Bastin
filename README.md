@@ -2,5 +2,5 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning btech cse
 - 💞️ I’m looking to collaborate on software companies
-- 📫 How to reach me through email-kevinkattakayam@karunya.edu.in
+- 📫 How to reach me through email - kevinkattakayam@karunya.edu.in
 -  interested in playing football
